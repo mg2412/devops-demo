@@ -1,2 +1,3 @@
 flask
 #pr test
+AWS_ACCESS_KEY_ID=test-key
